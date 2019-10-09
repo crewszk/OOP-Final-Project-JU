@@ -1,0 +1,9 @@
+F:\School\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+F:\School\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+F:\School\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Properties.Resources.resources
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.GenerateResource.Cache
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.PizzaForm.resources
+F:\School\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojResolveAssemblyReference.cache
