@@ -1,4 +1,4 @@
-# OOP-Final-Project-JU
+# Pizza App
 ## This is the final project of my Application Development II class at JU. It uses windows forms and object oriented programming structure.
 
 The objective for this application was to create a pizza ordering app. The user is able to order multiple pizzas
